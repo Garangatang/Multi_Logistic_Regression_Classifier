@@ -8,7 +8,7 @@ This repository supports REHABILITATION ASSESSMENTS WITH WEARABLE SENSORS: A NOV
 
 `relabeled_Tbl_500.txt` contains the data used to train all 5 binary logistic regression classifiers.
 
-`Table_500_5g.txt` contains the data used to test the accuracy of using 5 binary logistic regression classifiers and selecting the classification with the highest probability.
+`Table_500_5g.txt` contains the data used to test the accuracy of using 5 binary logistic regression classifiers by selecting the classification with the highest probability.
 
 ## Python Versions
 This code is compatible with Python 3.9.7 and above.
